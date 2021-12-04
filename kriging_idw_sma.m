@@ -317,9 +317,6 @@ end
 %check2=[];
 iterIJ = 0;
 
-
-
-
 for i = 1:eRow
     for j = 1:eCol
         %(i,j) is the location of the point being interpolated
